@@ -1,0 +1,22 @@
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\KloudCodingTask.BusinessLayer.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\KloudCodingTask.BusinessLayer.pdb
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\KloudCodingTask.DataAccessLayer.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\KloudCodingTask.Model.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\KloudCodingTask.DataAccessLayer.pdb
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\KloudCodingTask.Model.pdb
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.BusinessLayer\obj\Debug\KloudCodingTask.BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.BusinessLayer\obj\Debug\KloudCodingTask.BusinessLayer.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.BusinessLayer\obj\Debug\KloudCodingTask.BusinessLayer.pdb
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\KloudCodingTask.BusinessLayer.dll
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\KloudCodingTask.BusinessLayer.pdb
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\KloudCodingTask.DataAccessLayer.dll
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\KloudCodingTask.Model.dll
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\KloudCodingTask.DataAccessLayer.pdb
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\KloudCodingTask.Model.pdb
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.BusinessLayer\obj\Debug\KloudCodingTask.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.BusinessLayer\obj\Debug\KloudCodingTask.BusinessLayer.dll
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.BusinessLayer\obj\Debug\KloudCodingTask.BusinessLayer.pdb

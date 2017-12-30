@@ -1,0 +1,34 @@
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.UnitTest.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.UnitTest.pdb
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.BusinessLayer.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.DataAccessLayer.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.Model.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.BusinessLayer.pdb
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.DataAccessLayer.pdb
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.Model.pdb
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UnitTest\obj\Debug\KloudCodingTask.UnitTest.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UnitTest\obj\Debug\KloudCodingTask.UnitTest.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UnitTest\obj\Debug\KloudCodingTask.UnitTest.pdb
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\carOwners.json
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.UnitTest.dll
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.UnitTest.pdb
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\Castle.Core.dll
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.BusinessLayer.dll
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.DataAccessLayer.dll
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.Model.dll
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\Moq.dll
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.BusinessLayer.pdb
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.DataAccessLayer.pdb
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\KloudCodingTask.Model.pdb
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\Castle.Core.xml
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\Moq.pdb
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\Moq.xml
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\obj\Debug\KloudCodingTask.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\obj\Debug\KloudCodingTask.UnitTest.dll
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UnitTest\obj\Debug\KloudCodingTask.UnitTest.pdb

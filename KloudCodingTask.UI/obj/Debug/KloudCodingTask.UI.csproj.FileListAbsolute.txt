@@ -1,0 +1,15 @@
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UI\bin\Debug\KloudCodingTask.UI.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UI\bin\Debug\KloudCodingTask.UI.exe
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UI\bin\Debug\KloudCodingTask.UI.pdb
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UI\bin\Debug\KloudCodingTask.BusinessLayer.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UI\bin\Debug\KloudCodingTask.DataAccessLayer.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UI\bin\Debug\KloudCodingTask.Model.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UI\bin\Debug\Newtonsoft.Json.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UI\bin\Debug\KloudCodingTask.BusinessLayer.pdb
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UI\bin\Debug\KloudCodingTask.DataAccessLayer.pdb
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UI\bin\Debug\KloudCodingTask.Model.pdb
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UI\bin\Debug\Newtonsoft.Json.xml
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UI\obj\Debug\KloudCodingTask.UI.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UI\obj\Debug\KloudCodingTask.UI.exe
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.UI\obj\Debug\KloudCodingTask.UI.pdb
+C:\Users\Dell\Documents\GitHub\KloudCodingTask\KloudCodingTask.UI\bin\Debug\KloudCodingTask.UI.exe.config

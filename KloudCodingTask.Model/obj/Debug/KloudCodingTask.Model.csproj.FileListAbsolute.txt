@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.Model\bin\Debug\KloudCodingTask.Model.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.Model\bin\Debug\KloudCodingTask.Model.pdb
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.Model\obj\Debug\KloudCodingTask.Model.dll
+c:\users\dell\documents\visual studio 2015\Projects\KloudCodingTask\KloudCodingTask.Model\obj\Debug\KloudCodingTask.Model.pdb
